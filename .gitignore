@@ -1,0 +1,5 @@
+out/
+
+# Merlin 32 (6502 assembler) output files.
+error_output.txt
+_FileInformation.txt
